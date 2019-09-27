@@ -16,7 +16,7 @@ function GetTop10TrackSuccess(track_list, dispatch) {
 }
 
 function GetRequest(url) {
-  const apikey = "cf04681533632ac943595dd82f237731";
+  const apikey = "your api key";
 
   const config = {
     headers: {
